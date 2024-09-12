@@ -1,0 +1,67 @@
+id,nombre,marca,precio,cantidad,descripción,imagen_url,categoria
+1,Taladro Inalámbrico,DeWalt,99.99,10,Taladro inalámbrico de 20V con batería de litio,https://dojiw2m9tvv09.cloudfront.net/79550/product/dwd024k7417.jpg,Masculino
+2,Llave Inglesa Ajustable,Stanley,15.49,25,Llave inglesa ajustable de acero forjado,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zcgXlfhDJ31MyEhoZ8FjPARDK3s88MiJcQ&s,Masculino
+3,Sierra Circular,Bosch,120.00,8,Sierra circular de 1400W con disco de 7-1/4 pulgadas,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTttBYzPUeV7RrsZK_NnQhCigarP7EkigxxkQ&s,Masculino
+4,Martillo de Carpintero,Truper,8.99,50,Martillo con mango de fibra de vidrio de 16 oz,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHss_eKZiocQivuooDJyuN5eyqJfg-AxkZqg&s,Masculino
+5,Destornillador de Precisión,Wera,6.75,100,Juego de destornilladores de precisión con puntas magnéticas,https://i.ebayimg.com/thumbs/images/g/ZUcAAOSw9xNmgX0H/s-l1200.jpg,Masculino
+6,Alicate de Corte Recto,Ferr,12.30,40,Alicate con mordazas de acero endurecido para trabajos de corte,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatoSjF_bl6NKcY-OmRw-Q-A6HUFagHhTrrg&s,Masculino
+7,Nivel Láser,Stanley,89.50,12,Nivel láser de alta precisión para uso en construcción,https://cahema.pe/70244-large_default/nivel-laser-12v-max-360-3-lineas-luz-roja-baretool-dewalt-dw089lr-outlet.jpg,Masculino
+8,Cinta Métrica de 5m,Flexometro,3.99,80,Cinta métrica retráctil de 5 metros con gancho magnético,https://i5.walmartimages.com.mx/mg/gm/3pp/asr/2f333439-1155-47a5-b90b-75636d388fe8.2eda4af85d441016e002d422254a326d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF,Masculino
+9,Llave Allen (Juego),Stanley,14.99,35,Juego de llaves Allen de 8 piezas de acero templado,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IAissx1nSevLYuyZMaMIUzOmyBJ72-0ClA&s,Masculino
+10,Sierra de Mano,Truper,11.75,22,Sierra de mano con hoja de 16 pulgadas para madera,https://carpintec.com.pe/cdn/shop/files/Serrucho_para_madera_prizecut_16_Bahco_700x700.jpg?v=1706630053,Masculino
+11,Balón de Fútbol,Adidas,29.99,50,Balón de fútbol oficial tamaño 5 para partidos al aire libre,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSke6U-_-7icZu2NT3G0LJHJS7f8oRKi3EjRQ&s,Masculino
+12,Raqueta de Tenis,WILSON,89.99,30,Raqueta de tenis ligera de alto rendimiento,https://img.kwcdn.com/product/fancy/659ea506-ef15-4642-9ade-002c67f3b252.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp,Masculino
+13,Bicicleta de Montaña,Trek,499.99,10,Bicicleta de montaña con cuadro de aluminio y 21 velocidades,https://image.made-in-china.com/226f3j00JagMmWhdPjbF/Marco-de-aluminio-de-26-pulgadas-para-bicicletas-de-monta-a-de-21-velocidades.webp,Masculino
+14,Guantes de Boxeo,Everlast,39.99,25,Guantes de boxeo de 16 oz para entrenamiento y sparring,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS1hi_dTV6jXfhDS3ZPR5egEOqHcZZlLo0vg&s,Masculino
+15,Patines en Línea,Rollerblade,129.99,15,Patines en línea de alto rendimiento con sistema de ajuste rápido,https://m.media-amazon.com/images/I/71ycYF+ZENL._AC_SL1500_.jpg,Masculino
+16,Pelota de Yoga,Gaiam,19.99,40,Pelota de yoga antiexplosión de 65 cm de diámetro,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCugMBtsrcJcbLgnEfeT6RwwwwZZUeDwpxgg&s,Masculino
+17,Cinta de Correr,NordicTrack,799.99,8,Cinta de correr eléctrica plegable con pantalla táctil,https://cdn.sonicofitness.com/wp-content/uploads/2021/11/trotadora-Panter.jpg.webp,Masculino
+18,Mancuernas Ajustables,Bowflex,249.99,12,Juego de mancuernas ajustables con peso de 5 a 52.5 libras,https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1904/PMP00002085593/full_image-1.jpeg,Masculino
+19,Palo de Golf (Set),Callaway,499.99,5,Set completo de palos de golf con bolsa de transporte,https://contents.mediadecathlon.com/m16335432/k$52e3468045d6ff1c6091b3be64e21e83/sq/e64e53f9-6803-4d91-99bb-a15c702a858d_c1c251.jpg?format=auto&f=800x0,Masculino
+20,Tabla de Surf,Rip Curl,399.99,7,Tabla de surf ligera y resistente de 6 pies para surfistas intermedios,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ811d6dN7Bonh5HM45SFikvVqqP9gupvd1yw&s,Masculino
+21,Polo Clásico de Algodón,Lacoste,89.99,30,Polo clásico de algodón con el icónico logo de cocodrilo,https://home.ripley.com.pe/Attachment/WOP_5/2005330343115/2005330343115_2.jpg,Masculino
+22,Polo de Manga Corta,Ralph Lauren,99.99,25,Polo de    manga corta con cuello acanalado y logo bordado,https://cdn-images.farfetch-contents.com/13/99/82/81/13998281_18652228_1000.jpg,Masculino
+23,Polo Deportivo,Adidas,59.99,50,Polo de tejido transpirable para actividades deportivas,https://assets.adidas.com/images/w_600,f_auto,q_auto/d78e51f6a8cf446ebae1ae9e00c4b04e_9366/Polo_Competition_Tiro_23_Negro_HK7638_01_laydown.jpg,Masculino
+24,Polo Casual,Hugo Boss,69.99,40,Polo casual de algodón suave en color azul marino,https://images.hugoboss.com/is/image/boss/hbna50505800_402_100?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1721943456000&wid=1200&hei=1818,Masculino
+25,Polo de Rayas,Nautica,49.99,35,Polo de rayas con corte regular y logo bordado,https://m.media-amazon.com/images/I/71Z-Qe4zd5L._AC_UY1000_.jpg,Masculino  
+26,Polo de Golf,Under Armour,79.99,20,Polo para golf con tecnología de control de humedad,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7xjzPHllwdLYAI3cyjHJ_ufQ5GFPXGsUCw&s,Masculino
+27,Polo Slim Fit,Tommy Hilfiger,59.99,45,Polo slim fit de algodón elástico en color blanco,https://tommyecuador.vtexassets.com/arquivos/ids/189726/IM-1985-SLIM-POLO.jpg?v=638371395198070000,Masculino
+28,Polo de Lino,Mango,39.99,25,Polo de lino ligero y transpirable para días calurosos,https://shop.mango.com/assets/rcs/pics/static/T4/fotos/S/47065924_56_B.jpg?imwidth=2048&imdensity=1&ts=1672742440480,Masculino
+29,Polo con Estampado,Ted Baker,89.99,15,Polo con estampado floral para un estilo casual,https://img.kwcdn.com/product/fancy/a0c54ca0-6bc5-47d7-b30e-e9a4870025d0.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp,Masculino
+30,Polo de Piqué,Zara,29.99,60,Polo de piqué en colores básicos ideal para el día a día,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLW34tMmlFKpV0-GTqFk7xI_mXVAi82JX5BQ&s,Masculino
+31,Pantalón de Mezclilla,Levi's,59.99,50,Pantalón vaquero clásico estilo 501 en color azul,https://i.ebayimg.com/images/g/cZ4AAOSwgJpgbAWW/s-l640.jpg,Masculino
+32,Pantalón Chino Slim Fit,Zara,39.99,40,Pantalón chino slim fit en color beige,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOU53-Q-4aXgmwAsB3VMGKANzKJDXFjCZqA&s,Masculino
+33,Pantalón Cargo,Columbia,49.99,35,Pantalón cargo de secado rápido ideal para actividades al aire libre,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLS7VbUSltgW4R7RL6ZfpDcOFN8p-8evQDA&s,Masculino
+34,Jogger Deportivo,Nike,54.99,60,Pantalón jogger de algodón con cintura ajustable y puños elásticos,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqcRNx1MbOvWeLMlaEY-F1kVy7ybKgaOv7g&s,Masculino
+35,Pantalón de Vestir,Hugo Boss,99.99,25,Pantalón de vestir de corte recto en color negro,https://m.media-amazon.com/images/I/31MSfFRgH+L._AC_SY580_.jpg,Masculino
+36,Pantalón de Lino,Mango,69.99,20,Pantalón de lino ligero y transpirable, ideal para el verano,https://m.media-amazon.com/images/I/61iZL5ONanL._AC_SX569_.jpg,Masculino
+37,Pantalón de Senderismo,The North Face,89.99,15,Pantalón resistente al agua para senderismo,https://4nomadsperu.com/wp-content/uploads/2020/03/Sobre-pantalon-impermeable-Naturehike-06.jpg,Masculino
+38,Pantalón Jogger Casual,Adidas,44.99,70,Pantalón jogger casual con ajuste relajado y bolsillos laterales,https://m.media-amazon.com/images/I/51st5HWhjeL.jpg,Masculino
+39,Pantalón Corto de Entrenamiento,Puma,29.99,80,Pantalón corto de entrenamiento con tejido transpirable,https://img.asmedia.epimg.net/resizer/v2/B5E5EOMRNBH2DNPOJPXF5K6JYE.jpg?auth=3787cb866e11994be5b9692fc212e0a88392291ab220fd013a5a7d067480767d&width=1472&height=1104&focal=982%2C237,Masculino
+40,Pantalón Formal de Lana,Tommy Hilfiger,109.99,10,Pantalón formal de lana con corte entallado en gris,https://i.ebayimg.com/thumbs/images/g/XjQAAOSwXD1llzZq/s-l1200.jpg,Masculino
+41,Vestido Midi Floral,Zara,49.99,30,Vestido midi con estampado floral y escote en V,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxmvDpHzuqXg3p8nTdL_hgZGt-HklvLFhcw&s,Femenino
+42,Vestido de Cóctel,Calvin Klein,129.99,15,Vestido de cóctel entallado en color negro con detalles metálicos,https://i.pinimg.com/564x/f8/07/37/f8073797d88051a92be98d2f3b057a97.jpg,Femenino
+43,Vestido Largo Bohemio,H&M,59.99,20,Vestido largo bohemio con tirantes y estampado étnico,https://img.kwcdn.com/product/fancy/be5af927-0992-449b-9557-7e51f143a518.jpg?imageView2/2/w/500/q/60/format/webp,Femenino
+44,Vestido Ajustado de Encaje,Lipsy,89.99,10,Vestido ajustado de encaje en color borgoña,https://i.ebayimg.com/thumbs/images/g/VGoAAOSwL2RkpdJA/s-l1200.jpg,Femenino
+45,Vestido Camisero,Uniqlo,39.99,50,Vestido camisero de algodón con botones frontales y cinturón,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj5I7ZOMT96eUopiFsNxaIVeY2fTgfVjUrw&s,Femenino
+46,Vestido de Noche,Sfera,149.99,8,Vestido largo de noche en color rojo con abertura lateral,https://m.media-amazon.com/images/I/61jFXOeYecL._AC_UY1000_.jpg,Femenino
+47,Vestido Playero,Tommy Hilfiger,59.99,25,Vestido playero ligero con tirantes finos y estampado veraniego,https://m.media-amazon.com/images/I/61MdHl6cJWL._AC_UY1000_.jpg,Femenino
+48,Vestido Corto de Punto,Mango,44.99,40,Vestido corto de punto con cuello alto y mangas largas,https://imagenes.elpais.com/resizer/v2/TSZSNMY2OHMOC7QEUKFDHIAYUY.jpg?auth=3e370675e990c9908b4e4dbc8f43fa93cdb4c30cf9e844506c091cd0293a6b8b&width=414,Femenino
+49,Vestido con Volantes,Stradivarius,69.99,18,Vestido con volantes en los hombros y falda acampanada,https://i.etsystatic.com/7164094/r/il/de4246/1849777477/il_570xN.1849777477_r8pq.jpg,Femenino
+50,Vestido Formal de Satén,Hugo Boss,199.99,5,Vestido formal de satén con diseño cruzado y cinturón ajustable,https://m.media-amazon.com/images/I/51-kVOcEzRL.jpg,Femenino
+51,Bolso de Cuero,Mango,79.99,25,Bolso de cuero genuino con correa ajustable,https://http2.mlstatic.com/D_NQ_NP_666924-MLU70705487743_072023-O.webp,Femenino
+52,Zapatos de Tacón,Zara,49.99,30,Zapatos de tacón alto en color negro con acabado en charol,https://m.media-amazon.com/images/I/61mvzhX8QyL._AC_UY900_.jpg,Femenino
+53,Chaqueta de Lana,H&M,99.99,20,Chaqueta de lana con cuello amplio y cierre frontal,https://m.media-amazon.com/images/I/91Na-caEo+L._AC_SL1500_.jpg,Femenino
+54,Blusa de Seda,Uniqlo,39.99,50,Blusa de seda suave con mangas largas y botones,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLJlunFxaJRZ6C5DpvI1bGTTI2z2VHuAsQYA&s,Femenino
+55,Vestido Floral,Forever 21,29.99,40,Vestido corto con estampado floral y cintura ajustada,https://m.media-amazon.com/images/I/81BvYf+pGmL.jpg,Femenino
+56,Gafas de Sol,Aldo,19.99,75,Gafas de sol con montura redondeada y lentes polarizados,https://m.media-amazon.com/images/I/61sKTMYvHsL._AC_SL1500_.jpg,Femenino
+57,Sombrero de Paja,Stradivarius,24.99,60,Sombrero de paja para el verano con ala ancha,https://m.media-amazon.com/images/I/71xTtAFEGSL._AC_SL1500_.jpg,Femenino
+58,Pantalón Palazzo,Zara,59.99,35,Pantalón palazzo de cintura alta en color blanco,https://ae01.alicdn.com/kf/H64de872cf9dd4eb1b14e58155c2b7ad7Y/Pantalones-Palazzo-blancos-y-negros-para Femeninopantalones-bohemios-el-sticos-de-cintura-alta-informales-sueltos.jpg,Femenino
+59,Falda Plisada,Bershka,34.99,50,Falda midi plisada en color beige con cinturón,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GUMYtO6WTYl5qwsd6eE6uBmfujnRlT-EVg&s,Femenino
+60,Zapatillas Deportivas,Nike,89.99,45,Zapatillas deportivas para correr con suela amortiguada,https://hips.hearstapps.com/hmg-prod/images/female-hands-lacing-running-shoes-morning-sun-in-royalty-free-image-1656333893.jpg?crop=1xw:0.84415xh;center,top&resize=1200:*,Femenino
+61,Zapatos de Tacón de Aguja,Zara,69.99,30,Zapatos de tacón de aguja en color negro con punta afilada,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHXYoeOjf8ySLB3ibcFfeyio4xTu8dzlH47w&s,Femenino
+62,Zapatos de Tacón Ancho,Mango,59.99,20,Zapatos de tacón ancho en color beige con acabado en gamuza,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsKNtLmD8HN_bIGsOMpdKJdhtS1QjqXUbnw&s,Femenino
+63,Zapatos de Tacón con Correa,Stradivarius,49.99,40,Zapatos de tacón con correa ajustable y detalle de lazo,https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/08f9ce3ad20c65117bbee582b187d0c3.jpg,Femenino
+64,Zapatos de Tacón de Charol,H&M,39.99,50,Zapatos de tacón medio con acabado en charol rojo,https://m.media-amazon.com/images/I/41m3PP40DyL._AC_SY780_.jpg,Femenino
+65,Zapatos de Tacón Plataforma,Steve Madden,89.99,15,Zapatos de tacón con plataforma y correas en el tobillo,https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/7caf23d2217de4000eb25fa12cf6ed83.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp,Femenino
+

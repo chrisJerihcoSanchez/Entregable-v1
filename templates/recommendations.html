@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recomendaciones</title>
+  </head>
+  <body>
+    <h1>Recomendaciones de Productos</h1>
+
+    <form action="{{ url_for('recommendations') }}" method="POST">
+      <label for="interests">Introduce tus intereses:</label>
+      <input
+        type="text"
+        id="interests"
+        name="interests"
+        placeholder="Ej: tecnología, moda, deportes"
+      />
+      <button type="submit">Obtener Recomendaciones</button>
+    </form>
+
+    <ul>
+      {% if recommendations %} {% for product in recommendations %}
+      <li>{{ product }}</li>
+      {% endfor %} {% endif %}
+    </ul>
+    <a href="{{ url_for('home') }}">Volver</a>
+  </body>
+</html>

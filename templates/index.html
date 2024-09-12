@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recomendaciones de Productos</title>
+
+    <div class="container">
+      <h1>Descubre Productos Increíbles</h1>
+
+      <form action="{{ url_for('recommendations') }}" method="POST">
+        <label for="interests">¿Qué te apasiona?</label>
+        <input
+          type="text"
+          id="interests"
+          name="interests"
+          placeholder="Ej: tecnología, moda, deportes"
+          required
+        />
+        <button type="submit">Descubrir Ahora</button>
+      </form>
+
+      <div class="products-grid">
+        {% if recommendations %}
+          {% for product in recommendations %}
+            <div class="product-card">
+              <img src="{{ product['imagen_url'] }}" alt="{{ product['nombre'] }}" class="product-image" />
+              <div class="product-info">
+                <h2 class="product-name">{{ product['nombre'] }}</h2>
+                <p class="product-description">{{ product['descripcion'] }}</p>
+                <p class="product-price">${{ product['precio'] }}</p>
+                <p class="product-cantidad">Cantidad: {{ product['cantidad'] }}</p>
+                <p class="product-marca">Marca: {{ product['marca'] }}</p>
+              </div>
+            </div>
+          {% endfor %}
+        {% else %}
+          <p>¡Introduce tus intereses y descubre productos increíbles!</p>
+        {% endif %}
+      </div>
+      
+      <a href="{{ url_for('home') }}" class="back-link">← Volver al inicio</a>
+    </div>
+    </script>
+  </body>
+</html>
