@@ -1,0 +1,4 @@
+crea tu entorno virtual py venv .venv buscas en gpt
+entras al entorno hay un comnado le dices a gpt 
+descargas los modulos de py cuando eestes dentro de tu entorno por que ahi hay mas seguridad de que se instale lo paquetes
+comando para correr proyecto python run.py
